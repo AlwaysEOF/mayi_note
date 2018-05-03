@@ -1,0 +1,66 @@
+熟练这些，才会知道 Android studio 有多高效
+https://www.jianshu.com/p/a1527d4c85a7
+
+Java 自定义回调函数(编写属于自己的SDK)
+https://blog.csdn.net/ryffic/article/details/44891899
+
+JAVA回调机制(CallBack)详解
+https://www.cnblogs.com/heshuchao/p/5376298.html
+
+C/C++之回调函数
+https://www.cnblogs.com/chenyuming507950417/archive/2012/01/02/2310114.html
+
+Android Studio打包混淆带资源的SDK
+https://blog.csdn.net/u010949962/article/details/52300350
+
+转】制作不暴露源码的Android Library Project
+http://ju.outofmemory.cn/entry/227830
+
+Android中aar和jar文件的认识
+https://blog.csdn.net/zxw136511485/article/details/52777286
+
+Android Studio卡在refreshing gradle project的原因和快速解决办法
+
+Android不预览录视频
+https://blog.csdn.net/u010560903/article/details/52128640
+
+Android竖屏视频录制
+https://blog.csdn.net/yu75567218/article/details/53126460
+
+ android camera无预览拍照 后台拍照
+https://blog.csdn.net/a740169405/article/details/12207229
+
+ 从K近邻算法、距离度量谈到KD树、SIFT+BBF算法
+https://blog.csdn.net/v_july_v/article/details/8203674
+
+gRPC初体验
+https://www.jianshu.com/p/774b38306c30
+
+gRPC 官方文档中文版 V1.0
+https://doc.oschina.net/grpc?t=58008
+
+Android新特性介绍，ConstraintLayout完全解析
+https://blog.csdn.net/guolin_blog/article/details/53122387
+
+Android Studio ＋Vim
+https://www.jianshu.com/p/43862126b88f
+
+ 图像的通道和深度以及图像的像素点操作完全解析
+https://blog.csdn.net/u013355826/article/details/64905921
+
+opencv中图像基础（大小，深度，通道）https://blog.csdn.net/qq_18343569/article/details/47830503
+
+Android高效加载图片和缓存策略LRU，DiskLRU
+https://blog.csdn.net/houson_c/article/details/52012275
+
+Linux系统目录数和文件数限制
+https://www.cnblogs.com/zt007/p/6639322.html
+
+JNI 入门教程
+http://www.runoob.com/w3cnote/jni-getting-started-tutorials.html
+
+一天掌握Android JNI本地编程 快速入门
+https://www.cnblogs.com/rocomp/p/4892866.html
+
+NDK-JNI实战教程（一） 在Android Studio运行第一个NDK程序https://blog.csdn.net/yanbober/article/details/45309049
+
